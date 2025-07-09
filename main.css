@@ -8,3 +8,27 @@
 
 }
 
+.TOOLS{
+    border: 2px solid black;
+    display: flex;
+    justify-content: center;
+}
+
+.cards{
+    border: 2px solid red;
+    height: 300px;
+    width: 21%;
+}
+
+h2{
+    padding: 50px;
+    padding-top: 150px;
+    padding-bottom: 5px;
+}
+
+.pitures1{
+    background: url(./images/W.image.jpg);
+    background-size: cover;
+    background-position: bottom;
+    /* height: 100px; */
+}
